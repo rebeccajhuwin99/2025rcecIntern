@@ -1,4 +1,3 @@
-
 # convert the address to latitude and longitude
 
 setwd("C:/Users/cwiev/Desktop/intern/july 22/Changhua_Shops")
